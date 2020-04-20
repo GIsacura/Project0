@@ -1,0 +1,57 @@
+h1 {
+  text-align: center;
+  font-size: 100px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+#Lair {
+  background-color: #00bfff;
+}
+
+#BestSellers {
+  background-color: red;
+}
+
+#NewDonations {
+  background-color: green;
+}
+
+#BestOfTheYear {
+  background-color: brown;
+}
+
+body {
+  background-color: #a0522d;
+}
+
+#Introduction {
+  text-align: center;
+  font-size: 25px;
+}
+
+#Menu {
+  margin: 0 auto;
+  width: 100%;
+}
+
+#Menu th {
+  border: 1px solid black;
+  text-align: center;
+  width: 33%;
+}
+
+#Content td, th {
+  border: 1px solid black;
+  width: 20%;
+  text-align: center;
+}
+
+#Content {
+  width: 100%;
+}
+
+.Image {
+  height: 100px;
+}
+/*# sourceMappingURL=Style.css.map */
